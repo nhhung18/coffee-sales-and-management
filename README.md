@@ -19,19 +19,26 @@
 <h3>Đối với cửa hàng</h3>
 <ul>
   <li>...</li>
-  <li>...</li>bgbbb
+  <li>...</li>
   <li>...</li>
 </ul>
 
 <h2>Tiến độ</h2>
 <table>  
   <tr>
-    <th>Company</th>
+    <th>Nhiệm vụ</th>
     <th>Trạng thái</th>
   </tr>
+  
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>Tìm hiểu cách phần mềm hoạt động</td>
+    <td>In processing</td>
   </tr>
+
+  <tr>
+    <td>Tìm hiểu công nghệ sẽ sử dụng</td>
+    <td>Not started yet</td>
+  </tr>
+  
 </table>
 
