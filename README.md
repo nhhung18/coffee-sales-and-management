@@ -24,6 +24,7 @@
 </ul>
 
 <h2>Tiến độ</h2>
-
+1. Tìm hiểu cách hoạt động của phần mềm
+2. Tìm hiểu các công nghệ sẽ sử dụng
 
 
