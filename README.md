@@ -25,5 +25,6 @@
 
 <h2>Tiến độ</h2>
 1. Nghiên cứu, tìm hiểu cách hoạt động của phần mềm
+2. Tìm hiểu các công nghệ sẽ sử dụng
 
 
