@@ -4,14 +4,24 @@
 <h2>Công nghệ sử dụng</h2>
 <ul>
   <li><b>Frontend: </b> <t>HTML, CSS</t></li>
-  <li><b>Backend: </b> <t>HTML, CSS</t></li>
-  <li><b>Database: </b> <t>HTML, CSS</t></li>
+  <li><b>Backend: </b> <t>...</t></li>
+  <li><b>Database: </b> <t>...</t></li>
 </ul>
 
 <h2>Các tính năng</h2>
+<h3>Đối với khách hàng</h3>
+<ul>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+</ul>
 
-
-
+<h3>Đối với cửa hàng</h3>
+<ul>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+</ul>
 
 <h2>Tiến độ</h2>
 1. Nghiên cứu, tìm hiểu cách hoạt động của phần mềm
