@@ -3,7 +3,7 @@
 
 <h2>Công nghệ sử dụng</h2>
 <ul>
-  <li><h3>Frontend: </h3></li>
+  <li><h3>Frontend: </h3>ádsadsadsada</li>
   <li><h3>Backend: </h3></li>
   <li><h3>Database: </h3></li>
 </ul>
