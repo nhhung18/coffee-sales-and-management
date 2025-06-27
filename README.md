@@ -24,7 +24,9 @@
 </ul>
 
 <h2>Tiến độ</h2>
-1. Tìm hiểu cách hoạt động của phần mềm
-2. Tìm hiểu các công nghệ sẽ sử dụng
-
+<ul>
+  <li>Tìm hiểu cách hoạt động của phần mềm</li>
+  <li>Tìm hiểu các công nghệ sẽ sử dụng</li>
+  <li>...</li>
+</ul>
 
