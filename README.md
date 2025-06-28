@@ -54,12 +54,10 @@
 
   <tr>
     <td>Tìm hiểu công nghệ sẽ sử dụng</td>
-    <td>Not started yet</td>
+    <td>In processing</td>
   </tr>
 
-  <tr>
-    <td>Thiết kế giao diện</td>
-    <td>Not started yet</td>
+
   </tr>
 </table>
 
