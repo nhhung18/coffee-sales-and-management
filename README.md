@@ -4,8 +4,8 @@
 <h2>Công nghệ sử dụng</h2>
 <ul>
   <li><b>Frontend: </b> <t>HTML, CSS</t></li>
-  <li><b>Backend: </b> <t>...</t></li>
-  <li><b>Database: </b> <t>...</t></li>
+  <li><b>Backend: </b> <t>Java,...</t></li>
+  <li><b>Database: </b> <t>MySQL</t></li>
 </ul>
 
 <h2>Các tính năng</h2>
