@@ -15,7 +15,7 @@
   <li>Tìm kiếm sản phẩm</li>
   <li>Quản lý tài khoản</li>
   <li>Đánh giá, yêu cầu hỗ trợ</li>
-  <li>Quản lý đơn hàng</li>
+  <li>Theo dõi đơn hàng</li>
   <li>Quản lý giỏ hàng</li>
   <li>Thanh toán</li>
 </ul>
