@@ -74,8 +74,8 @@
 <br>
 <b>Mô tả chi tiết:</b>
 
-<h4>1. TÌm hiểu các nghiệp vụ</h4>
-<h5>1.1. Chi tiết các tính năng cần triển khai</h5>
+1. TÌm hiểu các nghiệp vụ</h4>
+1.1. Chi tiết các tính năng cần triển khai
 <ul>
   <li><strong>Các tính năng chung:</strong>
     <ul>
