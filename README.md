@@ -9,6 +9,14 @@
 </ul>
 
 <h2>Các tính năng</h2>
+
+<h3>Tính năng chung</h3>
+<ul>
+  <li>Đăng kí, đăng nhập</li>
+  <li>Xem và sửa thông tin cá nhân</li>
+  <li>Tìm kiếm, nhắn tin</li>
+</ul>
+
 <h3>Đối với khách hàng</h3>
 <ul>
   <li>Mua sản phẩm</li>
@@ -38,7 +46,6 @@
   <li>Yêu cầu thêm, xóa sản phẩm</li>
   <li>Kiểm tra hàng tồn kho</li>
   <li>Tạo đơn trực tiếp</li>
-  
 
 <h2>Tiến độ</h2>
 <table>  
@@ -56,8 +63,7 @@
     <td>Tìm hiểu công nghệ sẽ sử dụng</td>
     <td>In processing</td>
   </tr>
-
-
   </tr>
 </table>
 
+<b>Mô tả chi tiết nhiệm vụ</b>
