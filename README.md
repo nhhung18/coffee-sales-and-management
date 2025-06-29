@@ -66,4 +66,5 @@
   </tr>
 </table>
 
+<br>
 <b>Mô tả chi tiết nhiệm vụ</b>
