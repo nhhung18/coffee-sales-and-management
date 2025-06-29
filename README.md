@@ -72,12 +72,12 @@
 </table>
 
 <br>
-<b>Mô tả chi tiết </b>
+<b>Mô tả chi tiết:</b>
 - Các tính năng chung:
-	+ Người dùng và nhân viên có thể đăng ký, đăng nhập (nhân viên khi vào sẽ đăng ký tài khoản và sẽ được set Role là nhân viên sau)
+	+ Người dùng và nhân viên: có thể đăng ký, đăng nhập (nhân viên khi vào sẽ đăng ký tài khoản và sẽ được set Role là nhân viên sau)
 	+ Thông tin cá nhân gồm có: Họ tên, SĐT, giới tính, ngày sinh, email, mật khẩu (địa chỉ sẽ cho nhập sau khi khách hàng mua sản phẩm hoặc bên trong phần xem thông tin)
-	+ Tính năng tìm kiếm sản phẩm, tồn kho, tên khách hàng,... 
-	+ Về phần nhắn tin có thể sẽ tích hợp Chatbot AI hỗ trợ khách hàng giảm bớt công việc cho nhân viên, vẫn sẽ có phần gọi điện và nhắn tin với nhân viên
+	+ Tính năng tìm kiếm: sản phẩm, tồn kho, tên khách hàng,... 
+	+ Phần nhắn tin: có thể sẽ tích hợp Chatbot AI hỗ trợ khách hàng giảm bớt công việc cho nhân viên, vẫn sẽ có phần gọi điện và nhắn tin với nhân viên
  
 - Các tính năng đối với cửa hàng:
 	+ Quản lý đơn hàng: Xem đơn hàng của khách đang ở trạng thái nào
