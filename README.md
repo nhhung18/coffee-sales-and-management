@@ -73,20 +73,30 @@
 
 <br>
 <b>Mô tả chi tiết:</b>
-- Các tính năng chung:
-	+ Người dùng và nhân viên: có thể đăng ký, đăng nhập (nhân viên khi vào sẽ đăng ký tài khoản và sẽ được set Role là nhân viên sau)
-	+ Thông tin cá nhân gồm có: Họ tên, SĐT, giới tính, ngày sinh, email, mật khẩu (địa chỉ sẽ cho nhập sau khi khách hàng mua sản phẩm hoặc bên trong phần xem thông tin)
-	+ Tính năng tìm kiếm: sản phẩm, tồn kho, tên khách hàng,... 
-	+ Phần nhắn tin: có thể sẽ tích hợp Chatbot AI hỗ trợ khách hàng giảm bớt công việc cho nhân viên, vẫn sẽ có phần gọi điện và nhắn tin với nhân viên
- 
-- Các tính năng đối với cửa hàng:
-	+ Quản lý đơn hàng: Xem đơn hàng của khách đang ở trạng thái nào
-	+ Quản lý sản phẩm: Thêm, xem, sửa, xóa
-	+ Quản lý tồn kho: Xem sản phẩm tồn kho
-	+ Quản lý tài khoản khách hàng: Xem chi tiết tài khoản khách hàng
-	+ Quản lý khuyến mại: Thêm, xem, sửa, xóa
-	+ Thống kê: Bao gồm thống kê doanh thu, lợi nhuận, bán hàng, tồn kho (có thể train model để đánh giá rồi đưa ra gợi ý phù hợp cho khách hàng)
-	+ Xuất hóa đơn điện tử
-	+ Xử lý các đánh giá, hỗ trợ: Thông báo những đánh giá bình luận khách hàng gửi về, thêm tính năng nhắn tin với khách hàng
-	+ Quản lý nhập hàng: Thêm, xem, sửa, xóa
-	+ Quản lý nhà cung cấp: Thêm, xem, sửa, xóa
+
+<ul>
+  <li><strong>Các tính năng chung:</strong>
+    <ul>
+      <li>Người dùng và nhân viên có thể đăng ký, đăng nhập (nhân viên khi vào sẽ đăng ký tài khoản và sẽ được set Role là nhân viên sau)</li>
+      <li>Thông tin cá nhân gồm có: Họ tên, SĐT, giới tính, ngày sinh, email, mật khẩu (địa chỉ sẽ cho nhập sau khi khách hàng mua sản phẩm hoặc bên trong phần xem thông tin)</li>
+      <li>Tính năng tìm kiếm sản phẩm, tồn kho, tên khách hàng,...</li>
+      <li>Phần nhắn tin: Có thể sẽ tích hợp Chatbot AI hỗ trợ khách hàng giảm bớt công việc cho nhân viên, vẫn sẽ có phần gọi điện và nhắn tin với nhân viên</li>
+    </ul>
+  </li>
+
+  <li><strong>Các tính năng đối với cửa hàng:</strong>
+    <ul>
+      <li>Quản lý đơn hàng: Xem đơn hàng của khách đang ở trạng thái nào</li>
+      <li>Quản lý sản phẩm: Thêm, xem, sửa, xóa</li>
+      <li>Quản lý tồn kho: Xem sản phẩm tồn kho</li>
+      <li>Quản lý tài khoản khách hàng: Xem chi tiết tài khoản khách hàng</li>
+      <li>Quản lý khuyến mại: Thêm, xem, sửa, xóa</li>
+      <li>Thống kê: Bao gồm thống kê doanh thu, lợi nhuận, bán hàng, tồn kho (có thể train model để đánh giá rồi đưa ra gợi ý phù hợp cho khách hàng)</li>
+      <li>Xuất hóa đơn điện tử</li>
+      <li>Xử lý các đánh giá, hỗ trợ: Thông báo những đánh giá bình luận khách hàng gửi về, thêm tính năng nhắn tin với khách hàng</li>
+      <li>Quản lý nhập hàng: Thêm, xem, sửa, xóa</li>
+      <li>Quản lý nhà cung cấp: Thêm, xem, sửa, xóa</li>
+    </ul>
+  </li>
+</ul>
+
