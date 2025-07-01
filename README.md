@@ -72,19 +72,19 @@
 </table>
 
 <br>
-<h4>Mô tả chi tiết:</h4>
+<h3>Mô tả chi tiết:</h3>
 
-<t>1. Tìm hiểu các nghiệp vụ<br></t>
+<t>1. Tìm hiểu các nghiệp vụ</t>
+<br>
 <t>1.1. Chi tiết các tính năng cần triển khai</t>
    
-
-  <strong>Các tính năng chung</strong>
-    <ul>
+<strong>Các tính năng chung</strong>
+  <ul>
       <li>Người dùng và nhân viên có thể đăng ký, đăng nhập (nhân viên khi vào sẽ đăng ký tài khoản và sẽ được set Role là nhân viên sau)</li>
       <li>Thông tin cá nhân gồm có: Họ tên, SĐT, giới tính, ngày sinh, email, mật khẩu (địa chỉ sẽ cho nhập sau khi khách hàng mua sản phẩm hoặc bên trong phần xem thông tin)</li>
       <li>Tính năng tìm kiếm sản phẩm, tồn kho, tên khách hàng,...</li>
       <li>Phần nhắn tin: Có thể sẽ tích hợp Chatbot AI hỗ trợ khách hàng giảm bớt công việc cho nhân viên, vẫn sẽ có phần gọi điện và nhắn tin với nhân viên</li>
-</ul>
+  </ul>
 
 <strong>Các tính năng đối với cửa hàng</strong> 
     <br>
