@@ -77,7 +77,7 @@
 <t>1. Tìm hiểu các nghiệp vụ<br></t>
 <t>1.1. Chi tiết các tính năng cần triển khai</t>
    
-<ul>
+
   <strong>Các tính năng chung</strong>
     <ul>
       <li>Người dùng và nhân viên có thể đăng ký, đăng nhập (nhân viên khi vào sẽ đăng ký tài khoản và sẽ được set Role là nhân viên sau)</li>
@@ -101,7 +101,7 @@
       <li>Quản lý nhập hàng: Thêm, xem, sửa, xóa</li>
       <li>Quản lý nhà cung cấp: Thêm, xem, sửa, xóa</li>
     </ul>
-
+    
     <ul>
       <b>Đối với nhân viên bán hàng:</b>
       <li>Xem được những đơn hàng khách hàng đặt và xử lý giao hàng</li>
