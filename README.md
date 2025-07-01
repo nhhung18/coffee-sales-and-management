@@ -85,7 +85,6 @@
       <li>Tính năng tìm kiếm sản phẩm, tồn kho, tên khách hàng,...</li>
       <li>Phần nhắn tin: Có thể sẽ tích hợp Chatbot AI hỗ trợ khách hàng giảm bớt công việc cho nhân viên, vẫn sẽ có phần gọi điện và nhắn tin với nhân viên</li>
     </ul>
-  </li>
 
 <strong>Các tính năng đối với cửa hàng</strong> 
     <br>
