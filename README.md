@@ -78,7 +78,7 @@
 <t>1.1. Chi tiết các tính năng cần triển khai</t>
    
 <ul>
-  <li><strong>Các tính năng chung:</strong>
+  <strong>Các tính năng chung</strong>
     <ul>
       <li>Người dùng và nhân viên có thể đăng ký, đăng nhập (nhân viên khi vào sẽ đăng ký tài khoản và sẽ được set Role là nhân viên sau)</li>
       <li>Thông tin cá nhân gồm có: Họ tên, SĐT, giới tính, ngày sinh, email, mật khẩu (địa chỉ sẽ cho nhập sau khi khách hàng mua sản phẩm hoặc bên trong phần xem thông tin)</li>
@@ -87,8 +87,9 @@
     </ul>
   </li>
 
-  <li><strong>Các tính năng đối với cửa hàng:</strong>
+<strong>Các tính năng đối với cửa hàng</strong>
     <ul>
+      <b>Đối với quản lý cửa hàng:</b>
       <li>Quản lý đơn hàng: Xem đơn hàng của khách đang ở trạng thái nào</li>
       <li>Quản lý sản phẩm: Thêm, xem, sửa, xóa</li>
       <li>Quản lý tồn kho: Xem sản phẩm tồn kho</li>
@@ -100,6 +101,6 @@
       <li>Quản lý nhập hàng: Thêm, xem, sửa, xóa</li>
       <li>Quản lý nhà cung cấp: Thêm, xem, sửa, xóa</li>
     </ul>
-  </li>
+    
 </ul>
 
