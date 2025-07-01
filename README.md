@@ -111,3 +111,19 @@
     </ul>
 
 
+<ul>
+  <li>Đối với nhân viên bán hàng:
+    <ul>
+      <li>Xem được những đơn hàng khách hàng đặt và xử lý giao hàng</li>
+      <li>Có chức năng yêu cầu Admin thêm và xóa sản phẩm</li>
+      <li>Kiểm tra được hàng tồn kho</li>
+      <li>
+        Tạo được đơn hàng trực tiếp tại cửa hàng,
+        nếu khách đặt hàng trên mạng thì tự tạo đơn online
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
+
