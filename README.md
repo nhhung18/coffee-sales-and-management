@@ -102,14 +102,6 @@
       <li>Quản lý nhà cung cấp: Thêm, xem, sửa, xóa</li>
     </ul>
     
-    <ul>
-      <b>Đối với nhân viên bán hàng:</b>
-      <li>Xem được những đơn hàng khách hàng đặt và xử lý giao hàng</li>
-      <li>Có chức năng yêu cầu Admin thêm và xóa sản phẩm</li>
-      <li>Kiểm tra được hàng tồn kho</li>
-      <li>Tạo được đơn hàng trực tiếp tại cửa hàng, nếu khách đặt hàng trên mạng thì tự tạo đơn online</li>
-    </ul>
-
 
 <ul>
   <li>Đối với nhân viên bán hàng:
@@ -117,10 +109,7 @@
       <li>Xem được những đơn hàng khách hàng đặt và xử lý giao hàng</li>
       <li>Có chức năng yêu cầu Admin thêm và xóa sản phẩm</li>
       <li>Kiểm tra được hàng tồn kho</li>
-      <li>
-        Tạo được đơn hàng trực tiếp tại cửa hàng,
-        nếu khách đặt hàng trên mạng thì tự tạo đơn online
-      </li>
+      <li>Tạo được đơn hàng trực tiếp tại cửa hàng (nếu khách đặt hàng trên mạng thì tự tạo đơn online)</li>
     </ul>
   </li>
 </ul>
