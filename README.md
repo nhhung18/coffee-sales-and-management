@@ -88,19 +88,38 @@
 
 <strong>Các tính năng đối với cửa hàng</strong> 
     <br>
+<ul>
+  <li>Đối với quản lý cửa hàng:
     <ul>
-      <b>Đối với quản lý cửa hàng:</b>
       <li>Quản lý đơn hàng: Xem đơn hàng của khách đang ở trạng thái nào</li>
       <li>Quản lý sản phẩm: Thêm, xem, sửa, xóa</li>
       <li>Quản lý tồn kho: Xem sản phẩm tồn kho</li>
       <li>Quản lý tài khoản khách hàng: Xem chi tiết tài khoản khách hàng</li>
       <li>Quản lý khuyến mại: Thêm, xem, sửa, xóa</li>
-      <li>Thống kê: Bao gồm thống kê doanh thu, lợi nhuận, bán hàng, tồn kho (có thể train model để đánh giá rồi đưa ra gợi ý phù hợp cho khách hàng)</li>
+      <li>
+        Thống kê:
+        <ul>
+          <li>Thống kê doanh thu</li>
+          <li>Thống kê lợi nhuận</li>
+          <li>Thống kê bán hàng</li>
+          <li>Thống kê tồn kho</li>
+          <li>Có thể train model để đánh giá rồi đưa ra gợi ý phù hợp cho khách hàng</li>
+        </ul>
+      </li>
       <li>Xuất hóa đơn điện tử</li>
-      <li>Xử lý các đánh giá, hỗ trợ: Thông báo những đánh giá bình luận khách hàng gửi về, thêm tính năng nhắn tin với khách hàng</li>
+      <li>
+        Xử lý các đánh giá, hỗ trợ:
+        <ul>
+          <li>Thông báo những đánh giá, bình luận khách hàng gửi về</li>
+          <li>Thêm tính năng nhắn tin với khách hàng</li>
+        </ul>
+      </li>
       <li>Quản lý nhập hàng: Thêm, xem, sửa, xóa</li>
       <li>Quản lý nhà cung cấp: Thêm, xem, sửa, xóa</li>
     </ul>
+  </li>
+</ul>
+
     
 
 <ul>
