@@ -107,7 +107,7 @@
     <ul>
       <li>Quản lý đơn hàng: Xem đơn hàng của khách đang ở trạng thái nào</li>
       <li>Quản lý sản phẩm: Thêm, xem, sửa, xóa</li>
-      <li>Quản lý tồn kho: Xem sản phẩm tồn kho</li>
+      <li>Quản lý tồn kho: Xem sản phẩm tồn kho, tích hợp chức năng cảnh bảo khi lượng hàng tồn kho đến một giới hạn</li>
       <li>Quản lý khách hàng: Xem chi tiết thông tin khách hàng, tặng khuyến mại,...</li>
       <li></li>
       <li>Quản lý khuyến mại: Thêm, xem, sửa, xóa</li>
@@ -143,7 +143,7 @@
       <li>Xem được những đơn hàng khách hàng đặt và xử lý giao hàng</li>
       <li>Có chức năng yêu cầu Admin thêm và xóa sản phẩm</li>
       <li>Kiểm tra được hàng tồn kho</li>
-      <li>Tạo được đơn hàng trực tiếp tại cửa hàng (nếu khách đặt hàng trên mạng thì tự tạo đơn online)</li>
+      <li>Tạo được đơn hàng trực tiếp tại cửa hàng: về sản phẩm khách mua như cafe sữa thêm đường, thêm đá,... </li>
       <li>Tạo mã thanh toán trực tiếp ngay tại quầy khi khách mua trực tiếp</li>
     </ul>
   </li>
