@@ -73,6 +73,7 @@
   <li>Thanh toán trực tiếp</li>
 </ul>
 
+<i class="fa-regular fa-arrow-right"></i>
 <h3>Mô tả chi tiết:</h3>
    
 <strong>Các tính năng chung</strong>
