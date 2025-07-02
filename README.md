@@ -1,6 +1,25 @@
 <h1>Phần mềm quản lý quán cafe</h1>
 <t>Đây là dự án website để quản lý các hoạt động của cửa hàng, ngoài ra còn giúp khách hàng sử dụng dễ dàng hơn với giao diện thân thiện, trực quan. </t>
 
+<h2>Tiến độ</h2>
+<table>  
+  <tr>
+    <th>Nhiệm vụ</th>
+    <th>Trạng thái</th>
+  </tr>
+  
+  <tr>
+    <td>Tìm hiểu cách nghiệp vụ liên quan đến website</td>
+    <td>In processing</td>
+  </tr>
+
+  <tr>
+    <td>Tìm hiểu công nghệ sẽ sử dụng</td>
+    <td>In processing</td>
+  </tr>
+  </tr>
+</table>
+
 <h2>Công nghệ sử dụng</h2>
 <ul>
   <li><b>Frontend: </b> <t>HTML, CSS, JS, ReactJS</t></li>
@@ -53,25 +72,6 @@
   <li>Tạo đơn trực tiếp</li>
   <li>Thanh toán trực tiếp</li>
 </ul>
-
-<h2>Tiến độ</h2>
-<table>  
-  <tr>
-    <th>Nhiệm vụ</th>
-    <th>Trạng thái</th>
-  </tr>
-  
-  <tr>
-    <td>Tìm hiểu cách nghiệp vụ liên quan đến website</td>
-    <td>In processing</td>
-  </tr>
-
-  <tr>
-    <td>Tìm hiểu công nghệ sẽ sử dụng</td>
-    <td>In processing</td>
-  </tr>
-  </tr>
-</table>
 
 <br>
 <h3>Mô tả chi tiết:</h3>
