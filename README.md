@@ -80,7 +80,7 @@
   <li>Thanh toán trực tiếp</li>
 </ul>
 
-<h3>Mô tả chi tiết:</h3>
+<h3>-> Mô tả chi tiết:</h3>
    
 <strong>Các tính năng chung</strong>
   <ul>
