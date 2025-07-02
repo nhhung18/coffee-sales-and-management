@@ -97,6 +97,7 @@
       <li>Quản lý giỏ hàng: Sửa số lượng, và xóa được sản phẩm</li>
       <li>Thanh toán: sau khi đặt hàng sẽ có 2 lựa chọn ship COD hoặc thanh toán luôn</li>
       <li>Có thể đánh giá về đơn hàng, bình luận và gửi yêu cầu hỗ trợ</li>
+      <li>Nếu khách hàng ở chế độ Guest (chưa đăng nhập) thì chỉ xem được sản phẩm</li>
     </ul>
 
 
