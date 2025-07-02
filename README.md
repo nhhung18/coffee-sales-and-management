@@ -88,9 +88,8 @@
   </ul>
 
 <strong>Đối với khách hàng:</strong>
-<ul>
-  <li>
-    <ul>
+
+  <ul>
       <li>Đặt hàng</li>
       <li>Xem chi tiết sản phẩm</li>
       <li>Theo dõi đơn hàng: shipper đã nhận, đang trên đường giao đến bạn,...</li>
@@ -98,8 +97,7 @@
       <li>Thanh toán: sau khi đặt hàng sẽ có 2 lựa chọn ship COD hoặc thanh toán luôn</li>
       <li>Có thể đánh giá về đơn hàng, bình luận và gửi yêu cầu hỗ trợ</li>
     </ul>
-  </li>
-</ul>
+
 
 <strong>Các tính năng đối với cửa hàng</strong> 
     <br>
