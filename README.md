@@ -35,7 +35,8 @@
   <li>Quản lý đơn hàng</li>
   <li>Quản lý sản phẩm</li>
   <li>Quản lý tồn kho</li>
-  <li>Quản lý tài khoản khách hàng</li>
+  <li>Quản lý khách hàng</li>
+  <li>Quản lý nhân viên</li>
   <li>Quản lý khuyến mại</li>
   <li>Thống kê</li>
   <li>Xuất hóa đơn điện tử</li>
@@ -107,7 +108,8 @@
       <li>Quản lý đơn hàng: Xem đơn hàng của khách đang ở trạng thái nào</li>
       <li>Quản lý sản phẩm: Thêm, xem, sửa, xóa</li>
       <li>Quản lý tồn kho: Xem sản phẩm tồn kho</li>
-      <li>Quản lý tài khoản khách hàng: Xem chi tiết tài khoản khách hàng</li>
+      <li>Quản lý khách hàng: Xem chi tiết thông tin khách hàng, tặng khuyến mại,...</li>
+      <li></li>
       <li>Quản lý khuyến mại: Thêm, xem, sửa, xóa</li>
       <li>
         Thống kê:
