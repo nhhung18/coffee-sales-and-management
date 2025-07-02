@@ -87,9 +87,9 @@
       <li>Phần nhắn tin: Có thể sẽ tích hợp Chatbot AI hỗ trợ khách hàng giảm bớt công việc cho nhân viên, vẫn sẽ có phần gọi điện và nhắn tin với nhân viên</li>
   </ul>
 
-
+<strong>Đối với khách hàng:</strong>
 <ul>
-  <li>Đối với khách hàng:
+  <li>
     <ul>
       <li>Đặt hàng</li>
       <li>Xem chi tiết sản phẩm</li>
