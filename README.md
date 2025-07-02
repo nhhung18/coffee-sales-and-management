@@ -10,13 +10,20 @@
   
   <tr>
     <td>Tìm hiểu cách nghiệp vụ liên quan đến website</td>
-    <td>In processing</td>
+    <td>Done</td>
   </tr>
 
   <tr>
     <td>Tìm hiểu công nghệ sẽ sử dụng</td>
     <td>In processing</td>
   </tr>
+
+  <tr>
+    <td>Thiết kế hệ thống</td>
+    <td>Not start yet</td>
+  </tr>
+
+  
   </tr>
 </table>
 
@@ -73,7 +80,6 @@
   <li>Thanh toán trực tiếp</li>
 </ul>
 
-<i class="fa-regular fa-arrow-right"></i>
 <h3>Mô tả chi tiết:</h3>
    
 <strong>Các tính năng chung</strong>
