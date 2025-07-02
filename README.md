@@ -50,6 +50,7 @@
   <li>Yêu cầu thêm, xóa sản phẩm</li>
   <li>Kiểm tra hàng tồn kho</li>
   <li>Tạo đơn trực tiếp</li>
+  <li>Thanh toán trực tiếp</li>
 </ul>
 
 <h2>Tiến độ</h2>
@@ -85,6 +86,20 @@
       <li>Tính năng tìm kiếm sản phẩm, tồn kho, tên khách hàng,...</li>
       <li>Phần nhắn tin: Có thể sẽ tích hợp Chatbot AI hỗ trợ khách hàng giảm bớt công việc cho nhân viên, vẫn sẽ có phần gọi điện và nhắn tin với nhân viên</li>
   </ul>
+
+
+<ul>
+  <li>Đối với khách hàng:
+    <ul>
+      <li>Đặt hàng</li>
+      <li>Xem chi tiết sản phẩm</li>
+      <li>Theo dõi đơn hàng: shipper đã nhận, đang trên đường giao đến bạn,...</li>
+      <li>Quản lý giỏ hàng: Sửa số lượng, và xóa được sản phẩm</li>
+      <li>Thanh toán: sau khi đặt hàng sẽ có 2 lựa chọn ship COD hoặc thanh toán luôn</li>
+      <li>Có thể đánh giá về đơn hàng, bình luận và gửi yêu cầu hỗ trợ</li>
+    </ul>
+  </li>
+</ul>
 
 <strong>Các tính năng đối với cửa hàng</strong> 
     <br>
@@ -129,6 +144,7 @@
       <li>Có chức năng yêu cầu Admin thêm và xóa sản phẩm</li>
       <li>Kiểm tra được hàng tồn kho</li>
       <li>Tạo được đơn hàng trực tiếp tại cửa hàng (nếu khách đặt hàng trên mạng thì tự tạo đơn online)</li>
+      <li>Tạo mã thanh toán trực tiếp ngay tại quầy khi khách mua trực tiếp</li>
     </ul>
   </li>
 </ul>
