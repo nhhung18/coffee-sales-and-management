@@ -20,7 +20,7 @@
 
   <tr>
     <td>Thiết kế hệ thống</td>
-    <td>Not start yet</td>
+    <td>In processing</td>
   </tr>
 
   
