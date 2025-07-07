@@ -1,4 +1,4 @@
-<h1>Phần mềm quản lý quán cafe</h1>
+<h1>Phần mềm bán và quản lý cafe</h1>
 <t>Đây là dự án website để quản lý các hoạt động của cửa hàng, ngoài ra còn giúp khách hàng sử dụng dễ dàng hơn với giao diện thân thiện, trực quan. </t>
 
 <h2>Tiến độ</h2>
