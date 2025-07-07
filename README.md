@@ -121,7 +121,7 @@
           <li>Thống kê lợi nhuận</li>
           <li>Thống kê bán hàng</li>
           <li>Thống kê tồn kho</li>
-          <li>Có thể train model để đánh giá rồi đưa ra gợi ý phù hợp cho khách hàng</li>
+          <li>Xuất file Excel</li>
         </ul>
       </li>
       <li>Xuất hóa đơn điện tử</li>
