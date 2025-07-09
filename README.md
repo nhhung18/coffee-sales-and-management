@@ -15,12 +15,17 @@
 
   <tr>
     <td>Tìm hiểu công nghệ sẽ sử dụng</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>Thiết kế Database</td>
     <td>In processing</td>
   </tr>
 
   <tr>
-    <td>Thiết kế hệ thống</td>
-    <td>In processing</td>
+    <td>Thiết kế UI/UX</td>
+    <td>Not started yet</td>
   </tr>
 
   
