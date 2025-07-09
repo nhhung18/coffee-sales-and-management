@@ -117,7 +117,7 @@
       <li>Quản lý sản phẩm: Thêm, xem, sửa, xóa</li>
       <li>Quản lý tồn kho: Xem sản phẩm tồn kho, tích hợp chức năng cảnh bảo khi lượng hàng tồn kho đến một giới hạn</li>
       <li>Quản lý khách hàng: Xem chi tiết thông tin khách hàng, tặng khuyến mại,...</li>
-      <li></li>
+      <li>Quản lý ca làm việc</li>
       <li>Quản lý khuyến mại: Thêm, xem, sửa, xóa</li>
       <li>
         Thống kê:
