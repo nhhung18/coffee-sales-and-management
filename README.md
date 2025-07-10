@@ -158,4 +158,8 @@
 </ul>
 
 
-
+<h2>Xây dựng DataBase</h2>
+<h3>Các cột:</h3>
+<ul>
+  <li>
+</ul>
