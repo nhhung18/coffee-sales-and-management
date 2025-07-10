@@ -88,8 +88,5 @@
 [Mô tả chi tiết các tính năng](https://github.com/nhhung18/HuyHung-Project/blob/49d32c6d00c29cda12298260080ab07f640a213d/Mo_ta.md)
 
 
-<h2>Xây dựng DataBase</h2>
-<h3>Các cột:</h3>
-<ul>
-  <li>
-</ul>
+<h2>Diagram Database</h2>
+
