@@ -85,7 +85,7 @@
   <li>Thanh toán trực tiếp</li>
 </ul>
 
-<h3>-> Mô tả chi tiết:</h3> <a>https://github.com/nhhung18/HuyHung-Project/blob/fccc39351d51a1a0c920eb5144fc708a793d10ca/Mo_ta_chi_tiet</a>
+<h3>-> Mô tả chi tiết:</h3> <a href="url">https://github.com/nhhung18/HuyHung-Project/blob/fccc39351d51a1a0c920eb5144fc708a793d10ca/Mo_ta_chi_tiet</a>
 
 
 <h2>Xây dựng DataBase</h2>
