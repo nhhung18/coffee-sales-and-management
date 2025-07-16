@@ -85,7 +85,7 @@
   <li>Thanh toán trực tiếp</li>
 </ul>
 
-[Mô tả chi tiết các tính năng](https://github.com/nhhung18/HuyHung-Project/blob/49d32c6d00c29cda12298260080ab07f640a213d/Mo_ta.md)
+[Mô tả chi tiết các tính năng](https://github.com/nhhung18/HuyHung-Project/blob/49d32c6d00c29cda12298260080ab07f640a213d/feature_description.md)
 
 
 <h2>Diagram Database</h2>
