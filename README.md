@@ -35,7 +35,7 @@
 <h2>Công nghệ sử dụng</h2>
 <ul>
   <li><b>Frontend: </b> <t>HTML, Tailwind CSS, ReactJS</t></li>
-  <li><b>Backend: </b> <t>Java, Springboot</t></li>
+  <li><b>Backend: </b> <t>Java Springboot</t></li>
   <li><b>Database: </b> <t>MySQL</t></li>
   
 </ul>
