@@ -24,7 +24,7 @@
   </tr>
 
   <tr>
-    <td>Thiết kế FrontEnd</td>
+    <td>Thiết kế Frontend</td>
     <td>Not started yet</td>
   </tr>
 
