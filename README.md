@@ -57,6 +57,8 @@
   <li>Quản lý giỏ hàng</li>
   <li>Thanh toán</li>
   <li>Đánh giá, yêu cầu hỗ trợ</li>
+  <li>Lịch sử đã mua</li>
+  <li>Danh sách sản phẩm yêu thích</li>
   
 </ul>
 
