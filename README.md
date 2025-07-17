@@ -91,5 +91,6 @@
 
 
 <h2>Database Diagram</h2>
-![Test](Note/Image/Cafe_DB.png)
+
+![](Note/Image/Cafe_DB.png)
 
