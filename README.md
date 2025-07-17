@@ -24,7 +24,7 @@
   </tr>
 
   <tr>
-    <td>Thiết kế UI/UX</td>
+    <td>Thiết kế Frontend</td>
     <td>Not started yet</td>
   </tr>
 
@@ -35,7 +35,7 @@
 <h2>Công nghệ sử dụng</h2>
 <ul>
   <li><b>Frontend: </b> <t>HTML, Tailwind CSS, ReactJS</t></li>
-  <li><b>Backend: </b> <t>Java, Springboot</t></li>
+  <li><b>Backend: </b> <t>Java Springboot</t></li>
   <li><b>Database: </b> <t>MySQL</t></li>
   
 </ul>
@@ -57,6 +57,8 @@
   <li>Quản lý giỏ hàng</li>
   <li>Thanh toán</li>
   <li>Đánh giá, yêu cầu hỗ trợ</li>
+  <li>Lịch sử đã mua</li>
+  <li>Danh sách sản phẩm yêu thích</li>
   
 </ul>
 
@@ -85,9 +87,9 @@
   <li>Thanh toán trực tiếp</li>
 </ul>
 
-[Mô tả chi tiết các tính năng](https://github.com/nhhung18/HuyHung-Project/blob/49d32c6d00c29cda12298260080ab07f640a213d/Mo_ta.md)
+[Mô tả chi tiết các tính năng](https://github.com/nhhung18/HuyHung-Project/blob/153f17c471fe1e119267b746c84c9843ab4c53ff/Note/feature_description.md)
 
 
-<h2>Diagram Database</h2>
+<h2>Database Diagram</h2>
 
 
