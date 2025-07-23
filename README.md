@@ -91,8 +91,8 @@
 
 
 <h2>Database Diagram</h2>
-Testing - not yet completed
+
 <br>
 
-![](Note/Image/Cafe_DB.png)
+![]()
 
