@@ -20,12 +20,12 @@
 
   <tr>
     <td>Thiết kế Database</td>
-    <td>In processing</td>
+    <td>Done</td>
   </tr>
 
   <tr>
     <td>Thiết kế Frontend</td>
-    <td>Not started yet</td>
+    <td>In processing</td>
   </tr>
 
   
