@@ -20,7 +20,7 @@
 
   <tr>
     <td>Thiết kế Database</td>
-    <td>Xong</td>
+    <td>Đang sửa lại</td>
   </tr>
 
   <tr>
