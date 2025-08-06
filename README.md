@@ -24,10 +24,14 @@
   </tr>
 
   <tr>
-    <td>Thiết kế Frontend</td>
+    <td>Thiết kế, xây dựng Backend</td>
     <td>In processing</td>
   </tr>
 
+  <tr>
+    <td>Thiết kế, xây dựng Frontend</td>
+    <td>In processing</td>
+  </tr>
   
   </tr>
 </table>
