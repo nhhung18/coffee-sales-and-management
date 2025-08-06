@@ -10,27 +10,27 @@
   
   <tr>
     <td>Tìm hiểu cách nghiệp vụ liên quan đến website</td>
-    <td>Done</td>
+    <td>Xong</td>
   </tr>
 
   <tr>
     <td>Tìm hiểu công nghệ sẽ sử dụng</td>
-    <td>Done</td>
+    <td>Xong</td>
   </tr>
 
   <tr>
     <td>Thiết kế Database</td>
-    <td>Done</td>
+    <td>Xong</td>
   </tr>
 
   <tr>
     <td>Thiết kế, xây dựng Backend</td>
-    <td>In processing</td>
+    <td>Chưa bắt đầu</td>
   </tr>
 
   <tr>
     <td>Thiết kế, xây dựng Frontend</td>
-    <td>In processing</td>
+    <td>Chưa bắt đầu</td>
   </tr>
   
   </tr>
