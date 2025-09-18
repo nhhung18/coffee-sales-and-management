@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-[Tiến độ chi tiết](https://docs.google.com/spreadsheets/d/1NMNEvrEgoZNu3on2IAoDbSXmND_0UZrN9gs8NOakmSc/edit?gid=0#gid=0)
+[Tiến độ chi tiết bằng Google Sheets](https://docs.google.com/spreadsheets/d/1NMNEvrEgoZNu3on2IAoDbSXmND_0UZrN9gs8NOakmSc/edit?gid=0#gid=0)
 
 <h2>Công nghệ sử dụng</h2>
 <ul>
