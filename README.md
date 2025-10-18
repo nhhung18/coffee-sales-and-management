@@ -25,12 +25,12 @@
 
   <tr>
     <td>Thiết kế, xây dựng Backend</td>
-    <td>Chưa bắt đầu</td>
+    <td>Đang làm</td>
   </tr>
 
   <tr>
     <td>Thiết kế, xây dựng Frontend</td>
-    <td>Chưa bắt đầu</td>
+    <td>Đang làm</td>
   </tr>
   
   </tr>
