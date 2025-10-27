@@ -98,5 +98,5 @@
 
 <br>
 
-![](database/db.png)
+![](database/DB.png)
 
