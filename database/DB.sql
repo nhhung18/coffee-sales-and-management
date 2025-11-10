@@ -83,6 +83,7 @@ CREATE TABLE productDetail (
   createAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   FOREIGN KEY (productId) REFERENCES product(id) ON DELETE CASCADE
 );
+alter table productDetail modify flavorNotes varchar(255);
 
 CREATE TABLE orders (
   id INT AUTO_INCREMENT PRIMARY KEY,
@@ -109,26 +110,25 @@ CREATE TABLE orderItem (
 
 CREATE TABLE discount (
   id INT AUTO_INCREMENT PRIMARY KEY,
-  description VARCHAR(255),
-  discount_type ENUM('Percentage', 'Fixed Amount') NOT NULL,
+  `description` VARCHAR(255),
+  discount_type ENUM('Percentage', 'Fixed_Amount') NOT NULL,
   discount_value DECIMAL(5,2) DEFAULT 0.00,
-  start_date DATETIME,
-  end_date DATETIME,
+  start_date TIMESTAMP,
+  end_date TIMESTAMP,
   updateAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   createAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   CHECK (start_date < end_date)
 );
 
 CREATE TABLE applyDiscount (
+  id INT AUTO_INCREMENT PRIMARY KEY,
   orderId INT NOT NULL,
   discountId INT NOT NULL,
   updateAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   createAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  PRIMARY KEY (orderId, discountId),
   FOREIGN KEY (orderId) REFERENCES orders(id) ON DELETE CASCADE,
   FOREIGN KEY (discountId) REFERENCES discount(id) ON DELETE CASCADE
 );
-
 -- INSERT DATA
 
 INSERT INTO roles (roleName) VALUES 
@@ -140,7 +140,6 @@ INSERT INTO address (unitNum, streetNum, addressline, city, postalCode) VALUES
 (10, 25, 'Le Loi', 'Ha Noi', '100000'),
 (15, 8, 'Nguyen Van Cu', 'Ho Chi Minh', '700000'),
 (7, 33, 'Tran Hung Dao', 'Da Nang', '550000');
-SELECT * FROM address
 
 INSERT INTO users (userName, fullName, email, `password`, roleId, phoneNum, avatarUrl) VALUES
 ('hungnguyen184', 'Nguyen Huy Hung', 'nguyenhung18042005@gmail.com', '123456', 1, '0909123456', 'https://example.com/admin.jpg'),
@@ -179,11 +178,11 @@ INSERT INTO orderItem (orderId, productId, quantity, unitPrice) VALUES
 
 INSERT INTO discount (description, discount_type, discount_value, start_date, end_date) VALUES
 ('Giam 10 phan tram cho don tren 200k', 'Percentage', 10.00, '2025-01-01 00:00:00', '2025-12-31 23:59:59'),
-('Giam 30000 cho don hang dau tien', 'Fixed Amount', 30.00, '2025-01-01 00:00:00', '2025-12-31 23:59:59');
+('Giam 30000 cho don hang dau tien', 'Fixed_Amount', 30.00, '2025-01-01 00:00:00', '2025-12-31 23:59:59');
 
 INSERT INTO applyDiscount (orderId, discountId) VALUES
 (5, 1),
-(6, 2);
+(6, 3);
 
 SELECT * FROM users;
 SELECT * FROM roles;
