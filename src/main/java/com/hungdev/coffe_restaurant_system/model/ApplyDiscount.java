@@ -7,21 +7,21 @@ import lombok.*;
 import java.sql.Timestamp;
 
 @Entity
-@Table(name = "user_address")
-@NoArgsConstructor
+@Table(name = "applyDiscount")
 @AllArgsConstructor
+@NoArgsConstructor
 @Getter
 @Setter
 @Builder
-public class UserAddress extends BaseIdObject {
+public class ApplyDiscount extends BaseIdObject {
 
     @ManyToOne
-    @JoinColumn(name = "userId", nullable = false)
-    private User userId;
+    @JoinColumn(name = "orderId", nullable = false)
+    private Order orderId;
 
     @ManyToOne
-    @JoinColumn(name = "addressId", nullable = false)
-    private Address addressId;
+    @JoinColumn(name = "discountId", nullable = false)
+    private Discount discountId;
 
     @Column(name = "updateAt", updatable = false, insertable = false)
     private Timestamp updateAt;

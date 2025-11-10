@@ -1,13 +1,12 @@
 package com.hungdev.coffe_restaurant_system.model;
 
 import com.hungdev.coffe_restaurant_system.model.base.BaseIdObject;
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CollectionId;
 
 import java.sql.Timestamp;
+import java.util.List;
 
 @Entity
 @Table(name = "users")
@@ -47,4 +46,10 @@ public class User extends BaseIdObject {
 
     @Column(name = "createAt", updatable = false, insertable = false)
     private Timestamp createAt;
+
+    @OneToMany(mappedBy = "id")
+    List<Address> addressList;
+
+    @OneToMany(mappedBy = "id")
+    List<Order> orderList;
 }

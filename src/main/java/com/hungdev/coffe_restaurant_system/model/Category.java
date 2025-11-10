@@ -11,27 +11,16 @@ import java.sql.Timestamp;
 import java.util.List;
 
 @Entity
-@Table(name = "address")
-@NoArgsConstructor
+@Table(name = "category")
 @AllArgsConstructor
+@NoArgsConstructor
 @Getter
 @Setter
 @Builder
-public class Address extends BaseIdObject {
-    @Column(name = "unitNum", nullable = false)
-    private int unitNum;
+public class Category extends BaseIdObject {
 
-    @Column(name = "streetNum", nullable = false)
-    private int streetNum;
-
-    @Column(name = "addressLine", nullable = false, length = 255)
-    private String addressLine;
-
-    @Column(name = "city", nullable = false, length = 255)
-    private String city;
-
-    @Column(name = "postalCode", nullable = false, length = 50)
-    private String postalCode;
+    @Column(name = "categoryName", nullable = false, length = 255)
+    private String categoryName;
 
     @Column(name = "updateAt", updatable = false, insertable = false)
     private Timestamp updateAt;
@@ -40,5 +29,5 @@ public class Address extends BaseIdObject {
     private Timestamp createAt;
 
     @OneToMany(mappedBy = "id")
-    List<Address> addressList;
+    List<Product> productList;
 }

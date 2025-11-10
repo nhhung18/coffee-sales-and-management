@@ -60,7 +60,7 @@ CREATE TABLE category (
 CREATE TABLE product (
   id INT AUTO_INCREMENT PRIMARY KEY,
   `name` VARCHAR(255) NOT NULL,
-  `escription` TEXT,
+  `description` VARCHAR(255),
   stockQuantity INT DEFAULT 0,
   imageUrl VARCHAR(255) NOT NULL,
   categoryId INT NOT NULL,
