@@ -1,51 +1,51 @@
-<h1>Phần mềm bán và quản lý quán Coffee</h1>
-<t>Đây là dự án website để quản lý các hoạt động của cửa hàng bao gồm bán hàng và các hoạt động của cửa hàng, ngoài ra còn giúp khách hàng sử dụng dễ dàng hơn với giao diện thân thiện, trực quan. </t>
+<h1>Coffee Sales and Management</h1>
+<t>Th </t>
 
-<h2>Tiến độ</h2>
+<h2>progress</h2>
 <table>  
   <tr>
-    <th>Nhiệm vụ</th>
-    <th>Trạng thái</th>
+    <th>Task</th>
+    <th>Status</th>
   </tr>
   
   <tr>
     <td>Tìm hiểu cách nghiệp vụ liên quan đến website</td>
-    <td>Hoàn thành</td>
+    <td>Completed</td>
   </tr>
 
   <tr>
     <td>Tìm hiểu công nghệ sẽ sử dụng</td>
-    <td>Hoàn thành</td>
+    <td>Completed</td>
   </tr>
 
   <tr>
     <td>Thiết kế Database</td>
-    <td>Hoàn thành</td>
+    <td>Completed</td>
   </tr>
 
   <tr>
-    <td>Thiết kế, xây dựng Backend</td>
-    <td>Đang thực hiện</td>
+    <td>Design and Build the Backend</td>
+    <td>In progress</td>
   </tr>
 
   <tr>
-    <td>Thiết kế, xây dựng Frontend</td>
-    <td>Đang thực hiện</td>
+    <td>Design and Build the Frontend</td>
+    <td>In progress</td>
   </tr>
   
   </tr>
 </table>
 
-<h2>Công nghệ sử dụng</h2>
+<h2>Build with:</h2>
 <ul>
   <li><b>Frontend: </b> <t>HTML, Tailwind CSS, ReactJS</t></li>
   <li><b>Backend: </b> <t>Java Springboot</t></li>
   <li><b>Database: </b> <t>MySQL</t></li>
 </ul>
 
-[API Desgin](https://docs.google.com/spreadsheets/d/1_0cGpqzDxH6ongw9585uWYWPJD3zjHUpmPsTOs7f2s8/edit?gid=0#gid=0)
+[Click here to view API Desgin](https://docs.google.com/spreadsheets/d/1_0cGpqzDxH6ongw9585uWYWPJD3zjHUpmPsTOs7f2s8/edit?gid=0#gid=0)
 
-<h2>Các tính năng</h2>
+<h2>List of Features:</h2>
 
 <h3>Tính năng chung</h3>
 <ul>
