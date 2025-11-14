@@ -41,8 +41,9 @@
   <li><b>Frontend: </b> <t>HTML, Tailwind CSS, ReactJS</t></li>
   <li><b>Backend: </b> <t>Java Springboot</t></li>
   <li><b>Database: </b> <t>MySQL</t></li>
-  
 </ul>
+
+[API Desgin](https://docs.google.com/spreadsheets/d/1_0cGpqzDxH6ongw9585uWYWPJD3zjHUpmPsTOs7f2s8/edit?gid=0#gid=0)
 
 <h2>Các tính năng</h2>
 
@@ -92,7 +93,6 @@
 </ul>
 
 [Mô tả chi tiết các tính năng](https://github.com/nhhung18/HuyHung-Project/blob/153f17c471fe1e119267b746c84c9843ab4c53ff/Note/feature_description.md)
-[API Desgin](https://docs.google.com/spreadsheets/d/1_0cGpqzDxH6ongw9585uWYWPJD3zjHUpmPsTOs7f2s8/edit?gid=0#gid=0)
 
 <h2>Database Diagram</h2>
 
