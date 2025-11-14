@@ -1,13 +1,13 @@
-package com.hungdev.coffe_restaurant_system;
+package com.hungdev.coffee_restaurant_system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CoffeRestaurantSystemApplication {
+public class CoffeeRestaurantSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CoffeRestaurantSystemApplication.class, args);
+		SpringApplication.run(CoffeeRestaurantSystemApplication.class, args);
 	}
 
 }

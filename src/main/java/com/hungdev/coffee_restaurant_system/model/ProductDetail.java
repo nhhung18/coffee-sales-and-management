@@ -1,7 +1,7 @@
-package com.hungdev.coffe_restaurant_system.model;
+package com.hungdev.coffee_restaurant_system.model;
 
-import com.hungdev.coffe_restaurant_system.model.base.BaseIdObject;
-import com.hungdev.coffe_restaurant_system.model.constants.RoastLevelName;
+import com.hungdev.coffee_restaurant_system.model.base.BaseIdObject;
+import com.hungdev.coffee_restaurant_system.model.constants.RoastLevelName;
 import jakarta.persistence.*;
 import lombok.*;
 

@@ -1,4 +1,4 @@
-package com.hungdev.coffe_restaurant_system.model.base;
+package com.hungdev.coffee_restaurant_system.model.base;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

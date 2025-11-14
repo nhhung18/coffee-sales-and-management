@@ -1,13 +1,11 @@
-package com.hungdev.coffe_restaurant_system.model;
+package com.hungdev.coffee_restaurant_system.model;
 
-import com.fasterxml.jackson.databind.ser.Serializers;
-import com.hungdev.coffe_restaurant_system.model.base.BaseIdObject;
-import com.hungdev.coffe_restaurant_system.model.constants.DiscountTypeName;
+import com.hungdev.coffee_restaurant_system.model.base.BaseIdObject;
+import com.hungdev.coffee_restaurant_system.model.constants.DiscountTypeName;
 import jakarta.persistence.*;
 import lombok.*;
 
 import java.math.BigDecimal;
-import java.sql.Time;
 import java.sql.Timestamp;
 import java.util.List;
 
