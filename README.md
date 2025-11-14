@@ -1,2 +1,2 @@
-<h1>Phần mềm bán và quản lý quán Coffee</h1>
-<h3>Code được push trong branch develop</h3>
+<h1>Coffee Sales and Management</h1>
+<h3>Code pushed in **development** branch</h3>
