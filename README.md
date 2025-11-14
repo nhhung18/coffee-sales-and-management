@@ -1,7 +1,7 @@
 <h1>Coffee Sales and Management</h1>
 <t>Th </t>
 
-<h2>progress</h2>
+<h2>Progress</h2>
 <table>  
   <tr>
     <th>Task</th>
